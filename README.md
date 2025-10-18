@@ -27,4 +27,4 @@ Docker • Firebase • Google Cloud • Git • Figma
 Backend architecture, design patterns, DevOps workflows, exploring practices and concepts related to client-server architecture.
 
 ### 📫 Connect with Me
-💼 [Portfolio](#) • 📄 [Resume](#) • ✉️ [Email Me](#)
+💼 [Portfolio](https://francisc-szasz-cv.vercel.app/) • 📄 [Resume](https://francisc-szasz-cv.vercel.app/assets/Szasz-Francisc-cv-en.pdf) • ✉️ [Email Me](mailto:francisc_szasz@yahoo.com)
