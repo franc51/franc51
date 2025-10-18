@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Francisc,
 
-<!--
-**franc51/franc51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** passionate about building responsive, user-focused web applications. With over **2 years of experience** and a strong academic foundation in **Computer Science**, I specialize in crafting intuitive interfaces and backend systems using **React**, **Angular**, **Node.js**, and **Flask**. I've developed a keen eye for detail, and for crafting intuitive UI/UX designs. I focus on writing clean code, and creating meaningful digital experiences that help people save time and enjoy technology.
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack
+**Frontend:**  
+HTML5 • CSS3 • SASS • JavaScript • TypeScript • Angular • React • Bootstrap 5 • GSAP  
+**Backend:**  
+Node.js • Express.js • Flask • Python • SQL • MySQL • MongoDB  
+**DevOps & Tools:**  
+Docker • Firebase • Google Cloud • Git • Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 🏎 **[Carly](#)** – Vehicle registration platform for Romanian citizens (Angular + Firebase + MongoDB)  
+- 🛒 **[Velto](#)** – Full-stack eCommerce web app (Angular + Flask + Docker)  
+- 💬 **[SokChat](#)** – Real-time chat app (React + WebSockets + MongoDB)  
+- 🎨 **[SunnySide Agency](#)** – Responsive landing page (HTML5 + CSS3 + JS)
+
+### 💬 Testimonials
+> “Francisc is easy to work with, passionate about his craft, and eager to help any team grow.”  
+> — *Sebastian Onofrei, Senior Full Stack Engineer @ IBM*
+
+> “He consistently delivered responsive, intuitive, and visually appealing interfaces.”  
+> — *Ovidiu-Rareș Botsch, QA Engineer @ Arnia Software*
+
+### 🌱 Currently Learning
+Backend architecture, design patterns, DevOps workflows, exploring practices and concepts related to client-server architecture.
+
+### 📫 Connect with Me
+💼 [Portfolio](#) • 📄 [Resume](#) • ✉️ [Email Me](#)
