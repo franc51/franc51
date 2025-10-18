@@ -11,10 +11,10 @@ Node.js • Express.js • Flask • Python • SQL • MySQL • MongoDB
 Docker • Firebase • Google Cloud • Git • Figma  
 
 ### 🚀 Featured Projects
-- 🏎 **[Carly](#)** – Vehicle registration platform for Romanian citizens (Angular + Firebase + MongoDB)  
-- 🛒 **[Velto](#)** – Full-stack eCommerce web app (Angular + Flask + Docker)  
-- 💬 **[SokChat](#)** – Real-time chat app (React + WebSockets + MongoDB)  
-- 🎨 **[SunnySide Agency](#)** – Responsive landing page (HTML5 + CSS3 + JS)
+- 🏎 **[Carly](https://github.com/franc51/carly5)** – Vehicle registration platform for Romanian citizens (Angular + Firebase + MongoDB)  
+- 🛒 **[Velto](https://github.com/franc51/Webshop)** – Full-stack eCommerce web app (Angular + Flask + Docker)  
+- 💬 **[SokChat](https://github.com/franc51/whatsdown)** – Real-time chat app (React + WebSockets + MongoDB)  
+- 🎨 **[SunnySide Agency](https://github.com/franc51/sunnyside-agency-landing-page-main)** – Responsive landing page (HTML5 + CSS3 + JS)
 
 ### 💬 Testimonials
 > “Francisc is easy to work with, passionate about his craft, and eager to help any team grow.”  
