@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francisc,
 
-I'm a **Full-Stack Developer** passionate about building responsive, user-focused web applications. With over **2 years of experience** and a strong academic foundation in **Computer Science**, I specialize in crafting intuitive interfaces and backend systems using **React**, **Angular**, **Node.js**, and **Flask**. I've developed a keen eye for detail, and for crafting intuitive UI/UX designs. I focus on writing clean code, and creating meaningful digital experiences that help people save time and enjoy technology.
+I'm a **Full-Stack Developer** passionate about building responsive, user-focused web applications. With over **2 years of experience** and a strong academic foundation in **Computer Science**, I specialize in crafting intuitive interfaces and backend systems using **React**, **Angular**, **Node.js**, and **Flask**. I've developed a keen eye for detail, I focus on writing clean code, and creating meaningful digital experiences that help people save time and enjoy technology.
 
 ### 🧠 Tech Stack
 **Frontend:**  
