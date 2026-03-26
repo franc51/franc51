@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francisc,
 
-I'm a **Full-Stack Developer** passionate about building responsive, user-focused web applications. With over **2 years of experience** and a strong academic foundation in **Computer Science**, I specialize in crafting intuitive interfaces and backend systems using **React**, **Angular**, **Node.js**, and **Flask**. I've developed a keen eye for detail, I focus on writing clean code, and creating meaningful digital experiences that help people save time and enjoy technology.
+I'm a **Full-Stack Developer** passionate about building responsive, user-focused web applications. With over **3 years of experience** and a strong academic foundation in **Computer Science**, I specialize in crafting intuitive interfaces and backend systems using **React**, **Angular**, **Node.js**, and **Flask**. I've developed a keen eye for detail, I focus on writing clean code, and creating meaningful digital experiences that help people save time and enjoy technology.
 
 ### 🧠 Tech Stack
 **Frontend:**  
@@ -25,6 +25,9 @@ Docker • Firebase • Google Cloud • Git • Figma
 
 ### 🌱 Currently Learning
 Backend architecture, design patterns, DevOps workflows, exploring practices and concepts related to client-server architecture.
+
+### 🌱 Currently Working on
+Leading end-to-end development of a web application( School Website ) using React, Node.js (Express), MongoDB, and CI/CD workflows, architecting the system, developing frontend and backend components, and implementing automated pipelines for continuous integration and deployment.
 
 ### 📫 Connect with Me
 💼 [Portfolio](https://francisc-szasz-cv.vercel.app/) • 📄 [Resume](https://francisc-szasz-cv.vercel.app/assets/Szasz-Francisc-cv-en.pdf) • ✉️ [Email Me](mailto:francisc_szasz@yahoo.com)
