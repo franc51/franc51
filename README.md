@@ -1,64 +1,70 @@
-👋 Hi, I'm Francisc
-T-shaped Full-Stack & Platform Engineer with 5 years of hands-on experience building scalable web applications and managing infrastructure. Framework-versatile across React, Angular, Vue, TypeScript, Node.js, Express, and MongoDB, backed by a strong foundation in Linux (Ubuntu), Nginx, Docker, and CI/CD pipelines.
+# 👋 Hi, I'm Francisc
 
-I own the end-to-end delivery lifecycle—from UI architecture and API optimization to zero-downtime server deployments, automated backups, and security hardening (UFW, SSL/TLS, fail2ban). Holds an M.Sc. in Internet Technologies and a B.Sc. in EECS.
+**T-shaped Full-Stack & Platform Engineer** with **5 years of experience** building scalable web applications and managing cloud/server infrastructure. Framework-versatile across React, Angular, Vue, TypeScript, Node.js, and Express, with strong hands-on expertise in Linux, Nginx, Docker, CI/CD, and security hardening.
 
-📍 Relocation Status: Actively seeking Senior Full-Stack & Platform Engineer roles in Dubai (UAE) and Riyadh (Saudi Arabia). Ready for immediate relocation with visa sponsorship.
+---
 
-🧠 Tech Stack & Core Competencies
-Frontend & Mobile:
+### 🌍 Target Markets & Availability
 
-React • TypeScript • Angular • Vue.js • TailwindCSS • JavaScript (ES6+) • HTML5/CSS3 • i18next
+* **Target Roles:** Senior Full-Stack Engineer, Platform Engineer, Systems Engineer
+* **Preferred Locations:** Dubai (UAE) • Riyadh (Saudi Arabia)
+* **Relocation Status:** Actively seeking opportunities; ready for immediate relocation with visa sponsorship.
 
-Backend & APIs:
+---
 
-Node.js • Express.js • RESTful APIs • Microservices Architecture • API Gateways • WebSockets • Flask • Python
+### 🎓 Education
 
-Databases & Storage:
+* **M.Sc. in Internet Technologies**
+* **B.Sc. in Electrical Engineering & Computer Science (EECS)**
 
-MongoDB • PostgreSQL • MySQL • SQL • Database Design & Optimization
+---
 
-DevOps, Cloud & Security:
+### 🧠 Core Competencies & Tech Stack
 
-Docker • Nginx • Linux (Ubuntu) • CI/CD (GitHub Actions) • UFW • Fail2ban • SSL/TLS • Git • Firebase
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, Angular, Vue.js, JavaScript (ES6+), TailwindCSS, HTML5, CSS3, i18next |
+| **Backend** | Node.js, Express.js, RESTful APIs, Microservices, API Gateways, WebSockets, Python, Flask |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQL |
+| **Platform & DevOps** | Docker, Nginx, Linux (Ubuntu), CI/CD (GitHub Actions), Git, Firebase, Cron |
+| **Security & Admin** | UFW, SSL/TLS, Fail2ban, JWT, RBAC, Automated Backups |
 
-🚀 Key Projects
-🏥 Hospital Management System (HMS)
-Microservices Architecture & Software Engineering Focus
+---
 
-A domain-oriented microservices platform connecting healthcare workflows across separate, decoupled business domains.
+### 🚀 Key Projects
 
-Architecture: 2 independent React micro-frontends (Medical Web Portal & Admin Dashboard), 1 central API Gateway, 7 backend microservices, and Database-per-Service (PostgreSQL).
+#### 🏥 Hospital Management System (HMS)
+> **Microservices Architecture & Platform Design**
+* **Overview:** Domain-oriented microservices healthcare platform engineered to decouple complex medical workflows.
+* **Architecture:** 2 independent React micro-frontends (Medical Web Portal & Admin Dashboard), 1 central API Gateway, 7 backend microservices, and Database-per-Service (PostgreSQL).
+* **Gateway & Security:** Central API Gateway handling request routing, CORS enforcement, rate limiting, security header configuration, and payload validation.
+* **Engineering Standards:** Centralized structured logging, Git hooks quality gates, and automated integration pipelines via GitHub Actions.
 
-Gateway Layer: Handled CORS, rate limiting, security headers, request validation, and routing to shield internal services from client exposition.
+#### 🏫 Institutional Management Platform *(Colegiul Național „Andrei Șaguna”)*
+> **Mar 2026 – Present** | Full-Stack Platform Engineer
+* **Overview:** Centralized administrative, content management, and system monitoring platform built for institutional scale.
+* **Architecture:** Modular REST API architecture using React, TypeScript, Node.js, Express.js, and MongoDB.
+* **Key Features:** Real-time admin dashboard, custom CMS, RBAC via JWT, dynamic branding engine, visitor analytics, and file manager.
+* **Infrastructure:** Automated database backups, background scheduled cron tasks, and continuous server health monitoring.
 
-Engineering Standards: Structured logging, localized quality gates with Git hooks, and CI via GitHub Actions.
+#### 🏎️ Carly
+* Vehicle registration platform built with **Angular**, **Firebase**, and **MongoDB**.
 
-🏫 Institutional Management Platform (Colegiul Național „Andrei Șaguna”)
-Mar 2026 – Present | Full-Stack Platform Engineer
+#### 🛒 Velto
+* Full-stack e-commerce platform built with **Angular**, **Flask**, and **Docker**.
 
-A centralized institutional administration, CMS, and monitoring platform designed for high-traffic educational environments.
+---
 
-Architecture: Modular REST API architecture using React, TypeScript, Node.js, Express.js, and MongoDB.
+### 💬 Testimonials
 
-Core Capabilities: Real-time admin dashboard, custom CMS, RBAC with JWT, file manager, dynamic branding engine, and visitor analytics.
+> *"Francisc is easy to work with, passionate about his craft, and eager to help any team grow."*
+> — **Sebastian Onofrei**, Senior Full Stack Engineer @ IBM
 
-Platform Operations: Automated database backups, scheduled cron tasks, and continuous database performance monitoring.
+> *"He consistently delivered responsive, intuitive, and visually appealing interfaces."*
+> — **Ovidiu-Rareș Botsch**, QA Engineer @ Arnia Software
 
-🏎️ Carly
-Vehicle registration platform built with Angular, Firebase, and MongoDB.
+---
 
-🛒 Velto
-Full-stack e-commerce application engineered with Angular, Flask, and Docker.
+### 📫 Connect with Me
 
-💬 Testimonials
-“Francisc is easy to work with, passionate about his craft, and eager to help any team grow.”
-
-— Sebastian Onofrei, Senior Full Stack Engineer @ IBM
-
-“He consistently delivered responsive, intuitive, and visually appealing interfaces.”
-
-— Ovidiu-Rareș Botsch, QA Engineer @ Arnia Software
-
-📫 Connect & Credentials
-💼 Portfolio • 📄 Resume • ✉️ Email Me
+🌐 **[Portfolio](https://francisc-szasz-cv.vercel.app/)** • 📄 **[Resume](https://francisc-szasz-cv.vercel.app/assets/Szasz-Francisc-cv-en.pdf)** • ✉️ **[Email](mailto:francisc_szasz@yahoo.com)**
