@@ -67,4 +67,4 @@
 
 ### 📫 Connect with Me
 
-🌐 **[Portfolio](https://francisc-szasz-cv.vercel.app/)** • 📄 **[Resume]([https://francisc-szasz-cv.vercel.app/assets/Szasz-Francisc-cv-en.pdf](https://drive.google.com/drive/folders/1oqJtDUjz_E1ombgqfeMducAVAn_RzMmg?usp=drive_link))** • ✉️ **[Email](mailto:francisc_szasz@yahoo.com)**
+🌐 **[Portfolio](https://francisc-szasz-cv.vercel.app/)** • 📄 **[Resume](https://drive.google.com/file/d/1L_Kzh3D8-pvyNrFf5JNKvQmTYgC6Sa9J/view?usp=sharing)** • ✉️ **[Email](mailto:francisc_szasz@yahoo.com)**
