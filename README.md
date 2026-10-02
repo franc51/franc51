@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francisc
 
-**T-shaped Full-Stack & Systrm Engineer** with **5 years of experience** building scalable web applications and managing cloud/server infrastructure. Framework-versatile across React, Angular, Vue, TypeScript, Node.js, and Express, with strong hands-on expertise in Linux(ubuntu, debian), Nginx, Docker, CI/CD, and security hardening.
+**T-shaped Full-Stack & System Engineer** with **5 years of experience** building scalable web applications and managing cloud/server infrastructure. Framework-versatile across React, Angular, Vue, TypeScript, Node.js, and Express, with strong hands-on expertise in Linux(ubuntu, debian), Nginx, Docker, CI/CD, and security hardening.
 
 ---
 
