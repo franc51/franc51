@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Francisc
 
-**T-shaped Full-Stack & Platform Engineer** with **5 years of experience** building scalable web applications and managing cloud/server infrastructure. Framework-versatile across React, Angular, Vue, TypeScript, Node.js, and Express, with strong hands-on expertise in Linux, Nginx, Docker, CI/CD, and security hardening.
+**T-shaped Full-Stack & Systrm Engineer** with **5 years of experience** building scalable web applications and managing cloud/server infrastructure. Framework-versatile across React, Angular, Vue, TypeScript, Node.js, and Express, with strong hands-on expertise in Linux(ubuntu, debian), Nginx, Docker, CI/CD, and security hardening.
 
 ---
 
 ### 🌍 Target Markets & Availability
 
-* **Target Roles:** Senior Full-Stack Engineer, Platform Engineer, Systems Engineer
-* **Preferred Locations:** Dubai (UAE) • Riyadh (Saudi Arabia)
+* **Target Roles:** Full-Stack Engineer, Platform Engineer, Systems Engineer
+* **Preferred Locations:** Dubai (UAE) • Riyadh (Saudi Arabia), Karlsruhe (Germany)
 * **Relocation Status:** Actively seeking opportunities; ready for immediate relocation with visa sponsorship.
 
 ---
@@ -67,4 +67,4 @@
 
 ### 📫 Connect with Me
 
-🌐 **[Portfolio](https://francisc-szasz-cv.vercel.app/)** • 📄 **[Resume](https://drive.google.com/file/d/1L_Kzh3D8-pvyNrFf5JNKvQmTYgC6Sa9J/view?usp=sharing)** • ✉️ **[Email](mailto:francisc_szasz@yahoo.com)**
+📄 **[Resume](https://drive.google.com/file/d/1L_Kzh3D8-pvyNrFf5JNKvQmTYgC6Sa9J/view?usp=sharing)** • ✉️ **[Email](mailto:francisc_szasz@yahoo.com)**
