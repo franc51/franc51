@@ -41,7 +41,7 @@
 * **Engineering Standards:** Centralized structured logging, Git hooks quality gates, and automated integration pipelines via GitHub Actions.
 
 #### 🏫 Institutional Management Platform *(Colegiul Național „Andrei Șaguna”)*
-> **Mar 2026 – Present** | Full-Stack Platform Engineer
+> **Mar 2025 – Present** | Full-Stack Platform Engineer
 * **Overview:** Centralized administrative, content management, and system monitoring platform built for institutional scale.
 * **Architecture:** Modular REST API architecture using React, TypeScript, Node.js, Express.js, and MongoDB.
 * **Key Features:** Real-time admin dashboard, custom CMS, RBAC via JWT, dynamic branding engine, visitor analytics, and file manager.
